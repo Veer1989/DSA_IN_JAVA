@@ -8,12 +8,14 @@ public class Fibonnici {
         int count = 2;
         int a = 0 ;
         int b = 1;
+        System.out.print(a+" "+b+" ");
         while(count<=n){
             int temp = b;
             b=a+b;
+            System.out.print(b+" ");
             a=temp;
             count++;
         }
-        System.out.println(b);
+    //    System.out.println(b);
     }
 }
