@@ -25,7 +25,7 @@ public class EvenNoOfDigits {
 
 
     static int digits(int n){
-        int count = 0 ; ;
+        int count = 0 ;
         if(n==0){
             return  1 ;
         }
