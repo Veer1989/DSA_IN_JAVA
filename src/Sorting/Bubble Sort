@@ -1,0 +1,11 @@
+It  is also known as Sinking Sort and Exchange Sort
+With Every Step Target Element Comes AT the End
+
+S.C. = O(1)
+
+these algorithm are called in place sorting as no space is required
+
+it is a stable sorting algorithm as the order remains same for equal values
+
+t.c. = O(n) (BEST CASE)
+      = O(n2) (WORST CASE DESCENDING ORDER)

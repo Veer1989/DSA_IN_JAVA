@@ -1,0 +1,7 @@
+it is not stable algorithm
+
+find the max element and swap it with its correct location simultaneously
+total comparisoms  = 1 to n-1 = ((n-1)*(n-1+1))/2
+worst case = o nsquare
+best case = o n square
+preforms well in small lists/arrays

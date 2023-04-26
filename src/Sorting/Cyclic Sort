@@ -1,0 +1,8 @@
+we only want to make n comparisons
+
+when given no from range 1,N  always use cyclic sort(vvv.imp)
+
+index = value - 1 ;
+
+total swaps = (n-1) + n (worst case)
+             =2n-1

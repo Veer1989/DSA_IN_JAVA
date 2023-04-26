@@ -1,0 +1,13 @@
+sort in parts
+for every index put that index element at the correct index of left hand side
+total comparison = 1 to n-1
+worst case =onsquare
+best  case = o(n) linear total comparison n-1
+
+why use it?
+adaptive:steps are reduced if array is sorted no of swaps are less compared to bubble
+it is stable
+
+it is used for smaller values of n
+works good when array is partially sorted(some parts are sorted)
+that's why it takes part in hybrid sorting algorithm
